@@ -1,7 +1,7 @@
 ---
 services: cosmos-db
 platforms: dotnet
-author: ryancrawcour
+author: public
 ---
 
 # Web application development with ASP.NET MVC using Azure Cosmos DB
